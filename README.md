@@ -1,2 +1,2 @@
 # -zbest.github.io
-This is the webpage for Bin Zhang, currently an assistant Professor of computational biology at MBZUAI. 
+This is the personal webpage of Bin Zhang, currently an Assistant Professor of Computational Biology at MBZUAI.
