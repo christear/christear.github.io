@@ -1,11 +1,98 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>My Personal Page</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bin ZHANG - Personal Webpage</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+  <style>
+    body { font-family: Arial, sans-serif; }
+    .sidebar {
+      background-color: #f8f9fa;
+      padding: 20px;
+      min-height: 100vh;
+    }
+    .sidebar img {
+      width: 100%;
+      border-radius: 50%;
+      margin-bottom: 20px;
+    }
+    .content {
+      padding: 30px;
+    }
+    .news-item { margin-bottom: 10px; }
+  </style>
 </head>
 <body>
-  <h1>Hello, I’m Bin Zhang 👋</h1>
-  <p>Welcome to my personal webpage hosted on GitHub Pages.</p>
+  <div class="container-fluid">
+    <div class="row">
+      
+      <!-- Sidebar -->
+      <div class="col-md-3 sidebar text-center">
+        <img src="your-photo.jpg" alt="Profile Photo">
+        <h3>Xiuying Chen</h3>
+        <p><i class="fas fa-map-marker-alt"></i> UAE</p>
+        <p><i class="fas fa-envelope"></i> <a href="mailto:xiuying.chen@mbzuai.ac.ae">Email</a></p>
+        <p><i class="fab fa-github"></i> <a href="https://github.com/yourusername" target="_blank">GitHub</a></p>
+        <p><i class="fas fa-graduation-cap"></i> <a href="https://scholar.google.com" target="_blank">Google Scholar</a></p>
+      </div>
+
+      <!-- Main Content -->
+      <div class="col-md-9 content">
+        
+        <!-- Navigation -->
+        <nav class="nav mb-4">
+          <a class="nav-link active" href="#">Homepage</a>
+          <a class="nav-link" href="#">About Me</a>
+          <a class="nav-link" href="#">News</a>
+          <a class="nav-link" href="#">Publications</a>
+          <a class="nav-link" href="#">Invited Talks</a>
+          <a class="nav-link" href="#">Services</a>
+          <a class="nav-link" href="#">Miscellaneous</a>
+        </nav>
+
+        <!-- Bio -->
+        <h4>Welcome</h4>
+        <p>
+          Hi! I have been working in the field of computational biology for over a decade,
+          and have studied and lived in diverse cultural environments across different countries. 
+          I am currently an Assistant Professor at MBZUAI, where I am continuously looking for self-motivated students and postdocs to join my group. 
+          MBZUAI offers highly competitive, tax-free compensation and an excellent research environment.
+        </p>
+        <p>
+          My research mainly focus on AI for systems biology, leveraging deep learning–based AI technologies to model complex biological processes,
+          such as gene regulation and antigen presentation. It aims to facilitate the discovery of novel biological phenomena,
+          putative drug targets, innovative treatment strategies, and improved disease diagnostics.
+        </p>
+
+        <!-- Recruitment -->
+        <p style="color:red; font-weight:bold;">
+          I am actively looking for highly motivated PhD students, Master’s students, and interns. 
+          All stipends are tax-free.
+        </p>
+        <p>
+          If you are interested in AI for Science, particulally biological and biomedical science, please feel free to contact me at 
+          <a href="mailto:bin.zhang@mbzuai.ac.ae">bin.zhang@mbzuai.ac.ae</a>.  
+          Please prepare your email with:
+        </p>
+        <ul>
+          <li>Subject line: “RA/Master/PhD Prospective Student $YourName”</li>
+          <li>Highlight your publications (if applicable), GPA/ranking, TOEFL and IELTS scores</li>
+          <li>Attach your CV</li>
+        </ul>
+
+        <!-- News -->
+        <h4>🔥 News</h4>
+        <ul>
+          <li class="news-item">2025.6 🎉 1 paper accepted by <em>ACM MM</em></li>
+          <li class="news-item">2025.5 🎉 5 papers accepted by <em>ACL</em> and 5 papers accepted by <em>ACL Findings</em></li>
+          <li class="news-item">2025.4 🎉 1 paper accepted by <em>Nature Computational Science</em> (IF 12) and 1 by <em>TOIS</em></li>
+          <li class="news-item">2025.4 🎉 2 papers accepted by <em>SIGIR 2025</em></li>
+        </ul>
+
+      </div>
+    </div>
+  </div>
 </body>
 </html>
