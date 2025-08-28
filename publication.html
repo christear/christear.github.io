@@ -1,108 +1,150 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Publications - Bin Zhang</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 40px;
-            background-color: #f9f9f9;
-            color: #333;
-        }
-        h1 {
-            text-align: center;
-            margin-bottom: 30px;
-        }
-        ol {
-            padding-left: 20px;
-        }
-        li {
-            margin-bottom: 15px;
-        }
-        .authors {
-            font-weight: bold;
-        }
-        .journal {
-            font-style: italic;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Publications - Bin Zhang</title>
+  <style>
+    :root {
+      --bg: #0f1526;
+      --card: #111a2e;
+      --muted: #8aa0c6;
+      --text: #e7eefc;
+      --accent: #6ea8fe;
+      --chip: #1a2540;
+      --border: #1e2b4a;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, "Noto Sans";
+      background: linear-gradient(180deg, #f8f9fa 0%, #0f1526 80%);
+      color: var(--text);
+      padding: 32px 20px;
+    }
+    h1 {
+      text-align: center;
+      font-size: 28px;
+      margin-bottom: 30px;
+      color: var(--accent);
+    }
+    .publication-list {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 16px;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .pub-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 16px 20px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.3);
+      transition: transform 0.15s ease, box-shadow 0.15s ease;
+    }
+    .pub-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 12px 32px rgba(0,0,0,0.35);
+    }
+    .authors {
+      font-weight: 700;
+      color: var(--accent-2, #a5d8ff);
+    }
+    .title {
+      margin: 6px 0;
+      font-size: 1rem;
+    }
+    .journal {
+      font-style: italic;
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+    @media(min-width: 640px) {
+      .publication-list {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+    @media(min-width: 1000px) {
+      .publication-list {
+        grid-template-columns: repeat(3, 1fr);
+      }
+    }
+  </style>
 </head>
 <body>
-    <h1>Selected Publications</h1>
-<ol>
-    <li>
-        <span class="authors">Zhou, J.*, Zhang, B.*, Chen, X., Li, H., Xu, X., Chen, S., ... & Gao, X.</span> (2024). 
-        An AI Agent for Fully Automated Multi-omic Analyses. 
-        <span class="journal">Advanced Science</span>, 2024, 2407094.
-    </li>
-    <li>
-        <span class="authors">Li, Z.*, Zhang, B.*,#, Chan, J. J.*, Tabatabaeian, H., Tong, Q. Y., Chew, X. H., ... & Tay, Y.</span> (2024). 
-        An isoform-resolution transcriptomic atlas of colorectal cancer from long-read single-cell sequencing. 
-        <span class="journal">Cell Genomics</span>, 4(9), 100641.
-    </li>
-    <li>
-        <span class="authors">Cai, H., Zhang, B., Ahrenfeldt, J., Joseph, J. V., Riedel, M., Gao, Z., ... & Thomsen, M. K.</span> (2024). 
-        CRISPR/Cas9 model of prostate cancer identifies Kmt2c deficiency as a metastatic driver by Odam/Cabs1 gene cluster expression. 
-        <span class="journal">Nature Communications</span>, 15(1), 2088.
-    </li>
-    <li>
-        <span class="authors">Zhang, B., & Gao, X.</span> (2023). 
-        Deciphering DNA variant-associated aberrant splicing with the aid of RNA sequencing. 
-        <span class="journal">Nature Genetics</span>, 1-2.
-    </li>
-    <li>
-        <span class="authors">Long, Y.*, Zhang, B.*,#, Tian, S.*, Chan, J. J., Zhou, J., Li, Z., ... & Gao, X.</span> (2023). 
-        Accurate transcriptome-wide identification and quantification of alternative polyadenylation from RNA-seq data with APAIQ. 
-        <span class="journal">Genome Research</span>, 33(4), 644-657.
-    </li>
-    <li>
-        <span class="authors">Gao, H.*, Zhang, B.*, Liu, L., Li, S., Gao, X., & Yu, B.</span> (2023). 
-        A universal framework for single-cell multi-omics data integration with graph convolutional networks. 
-        <span class="journal">Briefings in Bioinformatics</span>, 24(3), bbad081.
-    </li>
-    <li>
-        <span class="authors">Zhou, J.*, Zhang, B.*, Li, H., Zhou, L., Li, Z., Long, Y., ... & Gao, X.</span> (2022). 
-        Annotating TSSs in multiple cell types based on DNA sequence and RNA-seq data via DeeReCT-TSS. 
-        <span class="journal">Genomics, Proteomics & Bioinformatics</span>, 20(5), 959-973.
-    </li>
-    <li>
-        <span class="authors">Chan, J. J.*, Zhang, B.*, Chew, X. H., Salhi, A., Kwok, Z. H., Lim, C. Y., ... & Tay, Y.</span> (2022). 
-        Pan-cancer pervasive upregulation of 3′ UTR splicing drives tumourigenesis. 
-        <span class="journal">Nature Cell Biology</span>, 24(6), 928-939.
-    </li>
-    <li>
-        <span class="authors">Tian, S.*, Zhang, B.*, He, Y., Sun, Z., Li, J., Li, Y., ... & Chen, W.</span> (2022). 
-        CRISPR-iPAS: a novel dCAS13-based method for alternative polyadenylation interference. 
-        <span class="journal">Nucleic Acids Research</span>, 50(5), e26.
-    </li>
-    <li>
-        <span class="authors">Kwok, Z. H., Zhang, B., Chew, X. H., Chan, J. J., Teh, V., Yang, H., ... & Tay, Y.</span> (2021). 
-        Systematic analysis of intronic miRNAs reveals cooperativity within the multicomponent FTX locus to promote colon cancer development. 
-        <span class="journal">Cancer Research</span>, 81(5), 1308-1320.
-    </li>
-    <li>
-        <span class="authors">Zhang, B., Babu, K. R., Lim, C. Y., Kwok, Z. H., Li, J., Zhou, S., ... & Tay, Y.</span> (2020). 
-        A comprehensive expression landscape of RNA-binding proteins (RBPs) across 16 human cancer types. 
-        <span class="journal">RNA Biology</span>, 17(2), 211-226.
-    </li>
-    <li>
-        <span class="authors">Chen, T.*, Zhang, B.*, Ziegenhals, T.*, Prusty, A. B., Fröhler, S., Grimm, C., ... & Chen, W.</span> (2019). 
-        A missense mutation in SNRPE linked to non-syndromal microcephaly interferes with U snRNP assembly and pre-mRNA splicing. 
-        <span class="journal">PLoS Genetics</span>, 15(10), e1008460.
-    </li>
-    <li>
-        <span class="authors">Xiao, M. S.*, Zhang, B.*, Li, Y. S., Gao, Q., Sun, W., & Chen, W.</span> (2016). 
-        Global analysis of regulatory divergence in the evolution of mouse alternative polyadenylation. 
-        <span class="journal">Molecular Systems Biology</span>, 12(12), 890.
-    </li>
-    <li>
-        <span class="authors">Zhang, B.*, Han, D.*, Korostelev, Y., Yan, Z., Shao, N., Khrameeva, E., ... & Khaitovich, P.</span> (2016). 
-        Changes in snoRNA and snRNA abundance in the human, chimpanzee, macaque, and mouse brain. 
-        <span class="journal">Genome Biology and Evolution</span>, 8(3), 840-850.
-    </li>
-</ol>
+  <h1>Selected Publications</h1>
+  <div class="publication-list">
+    <div class="pub-card">
+      <div class="authors">Zhou, J.*, Zhang, B.*, Chen, X., Li, H., Xu, X., Chen, S., ... & Gao, X.</div>
+      <div class="title">An AI Agent for Fully Automated Multi-omic Analyses.</div>
+      <div class="journal">Advanced Science, 2024, 2407094.</div>
+    </div>
+    <div class="pub-card">
+      <div class="authors">Li, Z.*, Zhang, B.*,#, Chan, J. J.*, Tabatabaeian, H., Tong, Q. Y., Chew, X. H., ... & Tay, Y.</div>
+      <div class="title">An isoform-resolution transcriptomic atlas of colorectal cancer from long-read single-cell sequencing.</div>
+      <div class="journal">Cell Genomics, 4(9), 100641.</div>
+    </div>
+    <div class="pub-card">
+      <div class="authors">Cai, H., Zhang, B., Ahrenfeldt, J., Joseph, J. V., Riedel, M., Gao, Z., ... & Thomsen, M. K.</div>
+      <div class="title">CRISPR/Cas9 model of prostate cancer identifies Kmt2c deficiency as a metastatic driver by Odam/Cabs1 gene cluster expression.</div>
+      <div class="journal">Nature Communications, 15(1), 2088.</div>
+    </div>
+    <div class="pub-card">
+      <div class="authors">Zhang, B., & Gao, X.</div>
+      <div class="title">Deciphering DNA variant-associated aberrant splicing with the aid of RNA sequencing.</div>
+      <div class="journal">Nature Genetics, 1-2.</div>
+    </div>
+    <div class="pub-card">
+      <div class="authors">Long, Y.*, Zhang, B.*,#, Tian, S.*, Chan, J. J., Zhou, J., Li, Z., ... & Gao, X.</div>
+      <div class="title">Accurate transcriptome-wide identification and quantification of alternative polyadenylation from RNA-seq data with APAIQ.</div>
+      <div class="journal">Genome Research, 33(4), 644-657.</div>
+    </div>
+    <div class="pub-card">
+      <div class="authors">Gao, H.*, Zhang, B.*, Liu, L., Li, S., Gao, X., & Yu, B.</div>
+      <div class="title">A universal framework for single-cell multi-omics data integration with graph convolutional networks.</div>
+      <div class="journal">Briefings in Bioinformatics, 24(3), bbad081.</div>
+    </div>
+    <div class="pub-card">
+      <div class="authors">Zhou, J.*, Zhang, B.*, Li, H., Zhou, L., Li, Z., Long, Y., ... & Gao, X.</div>
+      <div class="title">Annotating TSSs in multiple cell types based on DNA sequence and RNA-seq data via DeeReCT-TSS.</div>
+      <div class="journal">Genomics, Proteomics & Bioinformatics, 20(5), 959-973.</div>
+    </div>
+    <div class="pub-card">
+      <div class="authors">Chan, J. J.*, Zhang, B.*, Chew, X. H., Salhi, A., Kwok, Z. H., Lim, C. Y., ... & Tay, Y.</div>
+      <div class="title">Pan-cancer pervasive upregulation of 3′ UTR splicing drives tumourigenesis.</div>
+      <div class="journal">Nature Cell Biology, 24(6), 928-939.</div>
+    </div>
+    <div class="pub-card">
+      <div class="authors">Tian, S.*, Zhang, B.*, He, Y., Sun, Z., Li, J., Li, Y., ... & Chen, W.</div>
+      <div class="title">CRISPR-iPAS: a novel dCAS13-based method for alternative polyadenylation interference.</div>
+      <div class="journal">Nucleic Acids Research, 50(5), e26.</div>
+    </div>
+    <div class="pub-card">
+      <div class="authors">Kwok, Z. H., Zhang, B., Chew, X. H., Chan, J. J., Teh, V., Yang, H., ... & Tay, Y.</div>
+      <div class="title">Systematic analysis of intronic miRNAs reveals cooperativity within the multicomponent FTX locus to promote colon cancer development.</div>
+      <div class="journal">Cancer Research, 81(5), 1308-1320.</div>
+    </div>
+    <div class="pub-card">
+      <div class="authors">Zhang, B., Babu, K. R., Lim, C. Y., Kwok, Z. H., Li, J., Zhou, S., ... & Tay, Y.</div>
+      <div class="title">A comprehensive expression landscape of RNA-binding proteins (RBPs) across 16 human cancer types.</div>
+      <div class="journal">RNA Biology, 17(2), 211-226.</div>
+    </div>
+    <div class="pub-card">
+      <div class="authors">Chen, T.*, Zhang, B.*, Ziegenhals, T.*, Prusty, A. B., Fröhler, S., Grimm, C., ... & Chen, W.</div>
+      <div class="title">A missense mutation in SNRPE linked to non-syndromal microcephaly interferes with U snRNP assembly and pre-mRNA splicing.</div>
+      <div class="journal">PLoS Genetics, 15(10), e1008460.</div>
+    </div>
+    <div class="pub-card">
+      <div class="authors">Xiao, M. S.*, Zhang, B.*, Li, Y. S., Gao, Q., Sun, W., & Chen, W.</div>
+      <div class="title">Global analysis of regulatory divergence in the evolution of mouse alternative polyadenylation.</div>
+      <div class="journal">Molecular Systems Biology, 12(12), 890.</div>
+    </div>
+    <div class="pub-card">
+      <div class="authors">Zhang, B.*, Han, D.*, Korostelev, Y., Yan, Z., Shao, N., Khrameeva, E., ... & Khaitovich, P.</div>
+      <div class="title">Changes in snoRNA and snRNA abundance in the human, chimpanzee, macaque, and mouse brain.</div>
+      <div class="journal">Genome Biology and Evolution, 8(3), 840-850.</div>
+    </div>
+  </div>
 </body>
 </html>
