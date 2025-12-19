@@ -1,1 +1,1 @@
-Sitemap: http://lab.lfd.world/sitemap.xml
+Sitemap: https://lfd-byte.github.io/lab_website/sitemap.xml
