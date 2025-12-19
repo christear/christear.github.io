@@ -1,10 +1,10 @@
 ---
-name: John Doe
+name: Zhijie He
 image: images/photo.jpg
-role: phd
-group: alum
+description: Visiting Student
+role: Visiting Student
 links:
-  github: john-doe
+  email: zhijie.he@mbzuai.ac.ae
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

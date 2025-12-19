@@ -1,11 +1,10 @@
 ---
-name: Sarah Johnson
+name: Huifa Li
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+description: Research Engineer
+role: Research Engineer
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  email: huifa.li@mbzuai.ac.ae
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
