@@ -26,4 +26,4 @@ By integrating multi-omics data, single-cell technologies, and AI-driven modelin
 {% include search-info.html %}
 
 <!-- {% include list.html data="citations" component="citation" style="rich" %} -->
-{% include list.html data="citations" component="citation" style="rich" exclude_orcid="0000-0001-8835-8370" %}
+{% include list.html data="citations" component="citation" filters="jane-doe: true" %}
