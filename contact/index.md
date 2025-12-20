@@ -37,7 +37,7 @@ Prof. Zhang’s Office Address: Building 1B, Mohamed bin Zayed University of Art
 {%
   include figure.html
   image="images/mbzuai_photo1.jpg"
-  caption="Lorem ipsum"
+  caption="Campus"
 %}
 
 {% endcapture %}
@@ -47,7 +47,7 @@ Prof. Zhang’s Office Address: Building 1B, Mohamed bin Zayed University of Art
 {%
   include figure.html
   image="images/mbzuai_photo2.png"
-  caption="Lorem ipsum"
+  caption="1B OFFICE BUILDING"
 %}
 
 {% endcapture %}

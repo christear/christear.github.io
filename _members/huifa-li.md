@@ -2,6 +2,7 @@
 name: Huifa Li
 image: images/photo.jpg
 description: Research Engineer
+affiliation: Mohamed bin Zayed University of Artificial Intelligence
 role: Research Engineer
 links:
   email: huifa.li@mbzuai.ac.ae
