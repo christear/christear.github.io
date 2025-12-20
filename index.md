@@ -1,9 +1,9 @@
 ---
 ---
 
-# LFD-byte's Website
+Our laboratory focuses on AI for Science (AI4Science), with a particular emphasis on omics-oriented research. We aim to integrate advanced artificial intelligence techniques with high-throughput omics data to enable data-driven discovery in life sciences and biomedicine.
 
-An engaging 1-3 sentence description of your lab.
+By leveraging large-scale biological datasets, we seek to uncover the underlying principles of complex biological systems and contribute to precision medicine and mechanistic understanding.
 
 {% include section.html %}
 
