@@ -10,3 +10,11 @@
   description: With the fast-growing and evolving omics data, the demand for streamlined and adaptable tools to handle bioinformatics analysis continues to grow. In response to this need, Automated Bioinformatics Analysis (AutoBA) is introduced, an autonomous AI agent designed explicitly for fully automated multi-omic analyses based on large language models (LLMs).
   date: 2024-10-03
   image: https://advanced.onlinelibrary.wiley.com/cms/asset/e7932ca7-a507-4ccc-97ce-2fbc2a59533a/advs9394-fig-0001-m.jpg
+
+
+- id: doi:10.1038/s41556-022-00913-z
+  type: paper
+  description: Most mammalian genes generate messenger RNAs with variable untranslated regions (UTRs) that are important post-transcriptional regulators. In cancer, shortening at 3′ UTR ends via alternative polyadenylation can activate oncogenes. However, internal 3′ UTR splicing remains poorly understood as splicing studies have traditionally focused on protein-coding alterations.
+  date: 2022-05-26
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41556-022-00913-z/MediaObjects/41556_2022_913_Fig1_HTML.png?as=webp
+
