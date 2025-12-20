@@ -43,3 +43,66 @@
   image: https://advanced.onlinelibrary.wiley.com/cms/asset/e7932ca7-a507-4ccc-97ce-2fbc2a59533a/advs9394-fig-0001-m.jpg
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1038/s41556-022-00913-z
+  title: "Pan-cancer pervasive upregulation of 3\u2032 UTR splicing drives tumourigenesis"
+  authors:
+  - Jia Jia Chan
+  - Bin Zhang
+  - Xiao Hong Chew
+  - Adil Salhi
+  - Zhi Hao Kwok
+  - Chun You Lim
+  - Ng Desi
+  - Nagavidya Subramaniam
+  - Angela Siemens
+  - Tyas Kinanti
+  - Shane Ong
+  - Avencia Sanchez-Mejias
+  - Phuong Thao Ly
+  - Omer An
+  - Raghav Sundar
+  - Xiaonan Fan
+  - Shi Wang
+  - Bei En Siew
+  - Kuok Chung Lee
+  - Choon Seng Chong
+  - Bettina Lieske
+  - Wai-Kit Cheong
+  - Yufen Goh
+  - Wee Nih Fam
+  - Melissa G. Ooi
+  - Bryan T. H. Koh
+  - Shridhar Ganpathi Iyer
+  - Wen Huan Ling
+  - Jianbin Chen
+  - Boon-Koon Yoong
+  - Rawisak Chanwat
+  - Glenn Kunnath Bonney
+  - Brian K. P. Goh
+  - Weiwei Zhai
+  - Melissa J. Fullwood
+  - Wilson Wang
+  - Ker-Kan Tan
+  - Wee Joo Chng
+  - Yock Young Dan
+  - Jason J. Pitt
+  - Xavier Roca
+  - Ernesto Guccione
+  - Leah A. Vardy
+  - Leilei Chen
+  - Xin Gao
+  - Pierce K. H. Chow
+  - Henry Yang
+  - Yvonne Tay
+  publisher: Nature Cell Biology
+  date: '2022-05-26'
+  link: https://doi.org/g8p6ct
+  type: paper
+  description: "Most mammalian genes generate messenger RNAs with variable untranslated\
+    \ regions (UTRs) that are important post-transcriptional regulators. In cancer,\
+    \ shortening at 3\u2032 UTR ends via alternative polyadenylation can activate\
+    \ oncogenes. However, internal 3\u2032 UTR splicing remains poorly understood\
+    \ as splicing studies have traditionally focused on protein-coding alterations."
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41556-022-00913-z/MediaObjects/41556_2022_913_Fig1_HTML.png?as=webp
+  plugin: sources.py
+  file: sources.yaml
