@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.1038/s41467-025-63911-3
@@ -1326,4 +1324,3 @@
   repo: greenelab/meta-review
   plugin: sources.py
   file: sources.yaml
->>>>>>> 5a1d07087c53c6c3001a7315a57badc2bf9ab7be
