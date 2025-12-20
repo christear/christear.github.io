@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: LFD-byte
+title: Bin Zhang's Lab
 subtitle: 
 description: An engaging 1-3 sentence description of your lab.
 header: images/background.jpg
@@ -8,12 +8,9 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@LFD-byte.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: LFD-byte
-  twitter: LFD-byte
-  youtube: LFD-byte
+  email: bin.zhang@mbzuai.ac.ae
+  orcid: 0000-0001-8835-8370
+  google-scholar: lFl6evoAAAAJ
 
 ### jekyll settings
 
