@@ -1,6 +1,7 @@
 ---
 name: Bin Zhang
 image: images/photo-bin-zhang.jpg
+description: Assistant Professor
 role: Assistant Professor of Computational Biology
 affiliation: Mohamed bin Zayed University of Artificial Intelligence
 aliases:
