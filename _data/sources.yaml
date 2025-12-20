@@ -5,7 +5,7 @@
   image: https://www.nature.com/articles/s41588-023-01363-5/figures/1
 
 
-- id: An AI Agent for Fully Automated Multi‐Omic Analyses
+- id: doi:10.1002/advs.202407094
   type: paper
   description: With the fast-growing and evolving omics data, the demand for streamlined and adaptable tools to handle bioinformatics analysis continues to grow. In response to this need, Automated Bioinformatics Analysis (AutoBA) is introduced, an autonomous AI agent designed explicitly for fully automated multi-omic analyses based on large language models (LLMs).
   date: 2024-10-03
