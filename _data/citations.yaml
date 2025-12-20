@@ -34,7 +34,6 @@
   date: '2025-09-18'
   link: https://doi.org/hbgd3m
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/s13073-024-01328-1
@@ -65,7 +64,6 @@
   date: '2024-07-22'
   link: https://doi.org/hbgd3n
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/bib/bbae302
@@ -89,7 +87,6 @@
   date: '2024-05-23'
   link: https://doi.org/hbgd3p
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.21203/rs.3.rs-3013972/v1
@@ -114,7 +111,6 @@
   date: '2024-01-15'
   link: https://doi.org/hbgd3q
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/1538-7445.am2024-4356
@@ -145,7 +141,6 @@
   date: '2024-03-22'
   link: https://doi.org/hbgd3r
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/advs.202407094
@@ -166,7 +161,6 @@
   date: '2024-10-03'
   link: https://doi.org/g8qqnw
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: sources.py
   file: sources.yaml
   type: paper
@@ -204,7 +198,6 @@
   date: '2024-09-01'
   link: https://doi.org/hbgd3s
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41467-024-46370-0
@@ -229,7 +222,6 @@
   date: '2024-03-07'
   link: https://doi.org/hbgd3t
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1126/sciadv.adh8601
@@ -254,7 +246,6 @@
   date: '2024-02-02'
   link: https://doi.org/gthqt7
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41467-024-50043-3
@@ -276,7 +267,6 @@
   date: '2024-07-05'
   link: https://doi.org/gt4xc6
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41467-023-41703-x
@@ -295,7 +285,6 @@
   date: '2023-10-06'
   link: https://doi.org/g56hqb
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/bib/bbad081
@@ -312,7 +301,6 @@
   date: '2023-03-17'
   link: https://doi.org/gt7x6w
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/0008-5472.c.6512451.v1
@@ -331,7 +319,6 @@
   date: '2023-03-31'
   link: https://doi.org/hbgd3v
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/0008-5472.c.6512451
@@ -350,7 +337,6 @@
   date: '2023-03-31'
   link: https://doi.org/hbgd3w
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/0008-5472.22426788.v1
@@ -370,7 +356,6 @@
   date: '2023-03-31'
   link: https://doi.org/hbgd3x
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/0008-5472.22426788
@@ -390,7 +375,6 @@
   date: '2023-03-31'
   link: https://doi.org/hbgd3z
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/0008-5472.22426785.v1
@@ -410,7 +394,6 @@
   date: '2023-03-31'
   link: https://doi.org/hbgd32
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/0008-5472.22426785
@@ -430,7 +413,6 @@
   date: '2023-03-31'
   link: https://doi.org/hbgd33
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/0008-5472.22426782.v1
@@ -450,7 +432,6 @@
   date: '2023-03-31'
   link: https://doi.org/hbgd34
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/0008-5472.22426782
@@ -470,7 +451,6 @@
   date: '2023-03-31'
   link: https://doi.org/hbgd35
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41467-023-37168-7
@@ -491,7 +471,6 @@
   date: '2023-03-21'
   link: https://doi.org/gtk3c9
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/gr.277177.122
@@ -517,7 +496,6 @@
   date: '2023-04-01'
   link: https://doi.org/hbgd36
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2023.04.21.536771
@@ -548,7 +526,6 @@
   date: '2023-04-21'
   link: https://doi.org/gssns7
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2023.02.17.529040
@@ -567,7 +544,6 @@
   date: '2023-02-21'
   link: https://doi.org/gsx7jq
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41588-023-01363-5
@@ -580,7 +556,6 @@
   date: '2023-05-01'
   link: https://doi.org/hbgd4d
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2023.08.17.553659
@@ -597,7 +572,6 @@
   date: '2023-08-19'
   link: https://doi.org/hbgd4f
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: handle:10754/694074
@@ -607,7 +581,6 @@
   date: ''
   link: https://repository.kaust.edu.sa/handle/10754/694074
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: handle:10754/694075
@@ -617,7 +590,6 @@
   date: ''
   link: https://repository.kaust.edu.sa/handle/10754/694075
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: handle:10754/693537
@@ -627,7 +599,6 @@
   date: ''
   link: https://repository.kaust.edu.sa/handle/10754/693537
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s42003-023-05322-y
@@ -644,7 +615,6 @@
   date: '2023-09-19'
   link: https://doi.org/gs9mm9
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2023.06.10.23291127
@@ -665,7 +635,6 @@
   date: '2023-06-13'
   link: https://doi.org/hbgd4g
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: handle:10754/693222
@@ -675,7 +644,6 @@
   date: ''
   link: https://repository.kaust.edu.sa/handle/10754/693222
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41467-022-32472-0
@@ -704,7 +672,6 @@
   date: '2022-08-09'
   link: https://doi.org/hbgd4h
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41556-022-00913-z
@@ -762,7 +729,6 @@
   date: '2022-05-26'
   link: https://doi.org/g8p6ct
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2022.03.23.485485
@@ -786,7 +752,6 @@
   date: '2022-03-27'
   link: https://doi.org/g5pg3d
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/nar/gkac108
@@ -812,7 +777,6 @@
   date: '2022-02-22'
   link: https://doi.org/hbgd4j
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s00018-021-04093-1
@@ -845,7 +809,6 @@
   date: '2022-02-23'
   link: https://doi.org/hbgd4k
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41388-021-02084-x
@@ -875,7 +838,6 @@
   date: '2021-12-22'
   link: https://doi.org/gqvw5b
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/labmed/lmac093
@@ -897,7 +859,6 @@
   date: '2022-10-06'
   link: https://doi.org/g4h5kw
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1182/blood-2022-169416
@@ -934,7 +895,6 @@
   date: '2022-11-15'
   link: https://doi.org/hbgd4m
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/1538-7445.am2022-924
@@ -951,7 +911,6 @@
   date: '2022-06-15'
   link: https://doi.org/hbgd4n
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/biology11030478
@@ -967,7 +926,6 @@
   date: '2022-03-21'
   link: https://doi.org/hbgd4p
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.gpb.2022.11.010
@@ -990,7 +948,6 @@
   date: '2022-10-01'
   link: https://doi.org/hbgd4q
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: handle:10754/691608
@@ -1000,7 +957,6 @@
   date: ''
   link: https://repository.kaust.edu.sa/handle/10754/691608
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: handle:10754/691606
@@ -1010,7 +966,6 @@
   date: ''
   link: https://repository.kaust.edu.sa/handle/10754/691606
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/0008-5472.CAN-20-1406
@@ -1030,7 +985,6 @@
   date: '2021-03-01'
   link: https://doi.org/hbgd4r
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.gpb.2020.05.004
@@ -1052,7 +1006,6 @@
   date: '2021-03-02'
   link: https://doi.org/gpcdkk
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.21203/rs.3.rs-640669/v1
@@ -1074,7 +1027,6 @@
   date: '2021-06-21'
   link: https://doi.org/hbgd4s
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/ijms21113828
@@ -1092,7 +1044,6 @@
   date: '2020-05-28'
   link: https://doi.org/gnf6cp
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.15252/msb.20199367
@@ -1118,7 +1069,6 @@
   date: '2020-04-01'
   link: https://doi.org/hbgd4t
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2020.03.26.009373
@@ -1140,7 +1090,6 @@
   date: '2020-03-27'
   link: https://doi.org/gk3nxv
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pgen.1008460
@@ -1165,7 +1114,6 @@
   date: '2019-10-31'
   link: https://doi.org/hbgd4v
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1080/15476286.2019.1673657
@@ -1184,7 +1132,6 @@
   date: '2019-10-13'
   link: https://doi.org/hbgd4w
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/bioinformatics/bty991
@@ -1201,7 +1148,6 @@
   date: '2018-11-30'
   link: https://doi.org/gfqqx7
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/ijc.31857
@@ -1221,7 +1167,6 @@
   date: '2018-11-09'
   link: https://doi.org/hbgd4x
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/341263
@@ -1240,7 +1185,6 @@
   date: '2018-06-07'
   link: https://doi.org/gkwzfk
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/nar/gkx1248
@@ -1259,7 +1203,6 @@
   date: '2017-12-12'
   link: https://doi.org/gc55dk
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.15252/msb.20167375
@@ -1276,7 +1219,6 @@
   date: '2016-12-01'
   link: https://doi.org/f95gnw
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/gbe/evw038
@@ -1297,7 +1239,6 @@
   date: '2016-02-28'
   link: https://doi.org/ggrrxf
   orcid: 0000-0001-8835-8370
-  bin-zhang: false
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41588-023-01441-8
