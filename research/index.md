@@ -2,27 +2,60 @@
 title: Research
 nav:
   order: 1
-  tooltip: Research
+  tooltip: Learn about our research
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-flask-vial" %}Research
 
-Looking ahead, our research aims to develop interpretable biological foundation models, with a focus on antigen presentation and RNA isoform regulation at single-cell resolution. Moving beyond traditional gene-centric approaches, we explore isoform-level expression as a fundamental representation to characterize cell types, cellular states, and their spatiotemporal dynamics. This perspective enables a more precise and mechanistic understanding of cellular regulation.
+During development cells specialise in response to signaling cues. To accomplish this, they must turn on and (importantly!) off gene expression programs. Cis-regulatory elements are stretches of DNA within the non-coding genome that can control gene expression with exquisite spatial and temporal precision. We know that cis-regulatory elements are bound by transcription factors, but it is still not trivial to find them and we are not able to predict their activity from sequence. 
 
-By integrating multi-omics data, single-cell technologies, and AI-driven modeling, we seek to construct RNA-centric gene regulatory networks that address key limitations of existing biological foundation models, particularly in interpretability and regulatory resolution. Ultimately, our work aims to advance the quantitative understanding of living systems and to support the rational design of biological processes for applications in biomedicine and beyond.
+The primary goal of our research is to understand how the **non-coding genome** regulates cell fate decisions during development. Our strategy to achieve this is to study the **mechanistic principles** of cis-regulatory elements in a developmentally relevant model, the developing spinal cord. Long-term, our aim is to predict the functional outcomes of non-coding variation in development and disease.
+
+{% capture text %}
+
+To  bridge molecular mechanisms of cis regulation to developmental phenotypic consequences, we combine _in vivo_ embryology with _in vitro_ cellular models that recapitulate the same cell fate decisions. Our favourite model system is the developing spinal cord, where a small combination of signals directs the specification of neural progenitors and therefore which neurons they will make. 
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/Research_all-02.png"
+  text=text
+%}
+
+{% capture text %}
+
+We use a variety of novel genomics and computational methods, developing new approaches when needed to answer the questions. Our current projects include state-of-the art proteomics and microscopy approaches to address the mechanistic principles of how cis-regulatory elements control cell fate choice between neural progenitors.
+
+{%
+  include button.html
+  link="publications"
+  text="Read more"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/Research_all-01.png"
+  link="publications"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+
+
+{% include tags.html tags="publication, resource, website" %}
+
 
 {% include section.html %}
 
-## Highlighted
+## Resources
 
-<!-- {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %} -->
+{% include list.html component="card" data="projects" filters="group: featured" style="small" %}
 
 {% include section.html %}
-
-## All
-
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
