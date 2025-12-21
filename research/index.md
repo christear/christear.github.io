@@ -19,7 +19,7 @@ To  bridge molecular mechanisms of cis regulation to developmental phenotypic co
 
 {%
   include feature.html
-  image="images/Research_all-02.png"
+  image="images/mbzuai_photo1.jpg"
   text=text
 %}
 
@@ -40,7 +40,7 @@ We use a variety of novel genomics and computational methods, developing new app
 
 {%
   include feature.html
-  image="images/Research_all-01.png"
+  image="images/mbzuai_photo2.png"
   link="publications"
   flip=true
   style="bare"
