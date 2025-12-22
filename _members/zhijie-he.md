@@ -1,6 +1,6 @@
 ---
 name: Zhijie He
-image: images/photo.jpg
+image: images/photo-zhijie-he.png
 description: Visiting Student
 affiliation: Mohamed bin Zayed University of Artificial Intelligence
 role: Visiting Student
