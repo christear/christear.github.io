@@ -30,7 +30,7 @@ We are passionate about development, differentiation and gene regulation. We com
 
 {%
   include feature.html
-  image="images/cover_research.jpg"
+  image="images/mbzuai_photo1.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -54,7 +54,7 @@ We are currently recruiting to build our team. We are looking for people at all 
 
 {%
   include feature.html
-  image="images/cover_team.jpg"
+  image="images/mbzuai_photo2.png"
   link="team"
   title="Our Team"
   flip=true
