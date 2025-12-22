@@ -7,11 +7,14 @@ By leveraging large-scale biological datasets, we seek to uncover the underlying
 
 {% include section.html %}
 
-## Highlights
-
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are passionate about development, differentiation and gene regulation. We combine dry and wet lab, spanning from cellular models to embryology, genomics and lots of flow cytometry.
+
+<!---
+[Learn more about our research &nbsp;→](research)
+{:.center}
+--->
 
 {%
   include button.html
@@ -22,19 +25,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   style="bare"
 %}
 
+
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/mbzuai_photo1.jpg"
+  image="images/cover_research.jpg"
   link="research"
   title="Our Research"
   text=text
 %}
 
+
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are currently recruiting to build our team. We are looking for people at all levels, and very keen to have diverse expertise and perspectives.
 
 {%
   include button.html
@@ -49,8 +54,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/mbzuai_photo2.png"
+  image="images/cover_team.jpg"
   link="team"
   title="Our Team"
+  flip=true
+  style="bare"
   text=text
 %}
