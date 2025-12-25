@@ -1,1 +1,1 @@
-Sitemap: https://lfd-byte.github.io/lab_website/sitemap.xml
+Sitemap: https://christear.github.io/sitemap.xml
