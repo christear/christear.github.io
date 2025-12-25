@@ -3,8 +3,8 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # LFD-byte's Website
+  # Christear's Website
 
-  Visit **[lfd-byte.github.io/lab_website](https://lfd-byte.github.io/lab_website)** 🚀
+  Visit **[christear.github.io](https://github.com/christear/christear.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
