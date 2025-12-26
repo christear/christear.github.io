@@ -4,13 +4,11 @@
   date: 2023-05-04
   image: https://blog-img-1304093596.cos.ap-shanghai.myqcloud.com/202512202332549.png
 
-
 - id: doi:10.1002/advs.202407094
   type: paper
   description: With the fast-growing and evolving omics data, the demand for streamlined and adaptable tools to handle bioinformatics analysis continues to grow. In response to this need, Automated Bioinformatics Analysis (AutoBA) is introduced, an autonomous AI agent designed explicitly for fully automated multi-omic analyses based on large language models (LLMs).
   date: 2024-10-03
   image: https://advanced.onlinelibrary.wiley.com/cms/asset/e7932ca7-a507-4ccc-97ce-2fbc2a59533a/advs9394-fig-0001-m.jpg
-
 
 - id: doi:10.1038/s41556-022-00913-z
   type: paper
