@@ -13,10 +13,9 @@
   position: absolute;
   inset: 0;
   background-image: var(--image);
-  // background-size: cover;
-  background-size: 160% auto; /* 横向放大 160%，纵向按比例 */
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 50%;
-  opacity: 0.25;
+  opacity: 0.6;
   z-index: -1;
 }
