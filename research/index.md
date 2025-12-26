@@ -49,7 +49,7 @@ We use a variety of novel genomics and computational methods, developing new app
 
 
 
-{% include tags.html tags="publication, resource, website" %}
+<!-- {% include tags.html tags="publication, resource, website" %} -->
 
 
 {% include section.html %}
