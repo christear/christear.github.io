@@ -1,15 +1,13 @@
 ---
 ---
 
-Our laboratory focuses on AI for Science (AI4Science), with a particular emphasis on omics-oriented research. We aim to integrate advanced artificial intelligence techniques with high-throughput omics data to enable data-driven discovery in life sciences and biomedicine.
-
-By leveraging large-scale biological datasets, we seek to uncover the underlying principles of complex biological systems and contribute to precision medicine and mechanistic understanding.
+Our laboratory focuses on AI for systems biology, leveraging deep learning–based methods to model complex biological processes such as gene regulation and antigen presentation. Our goal is to facilitate the discovery of novel biological phenomena, identify putative drug targets, develop innovative therapeutic strategies, and improve disease diagnostics.
 
 {% include section.html %}
 
 {% capture text %}
 
-We are passionate about development, differentiation and gene regulation. We combine dry and wet lab, spanning from cellular models to embryology, genomics and lots of flow cytometry.
+Our research spans, but is not limited to, several major directions, including single-cell modeling, multi-omics integration, and foundation models for biological processes that involve interactions among multiple macromolecules. In addition, our group actively contributes to major university flagship projects, including the Human Phenotype Project (HPP) and the Emirates Genome Project (EGP).
 
 <!---
 [Learn more about our research &nbsp;→](research)
@@ -39,7 +37,7 @@ We are passionate about development, differentiation and gene regulation. We com
 
 {% capture text %}
 
-We are currently recruiting to build our team. We are looking for people at all levels, and very keen to have diverse expertise and perspectives.
+We are continuously seeking self-motivated students and postdoctoral researchers to join our group. MBZUAI offers highly competitive, tax-free compensation and an outstanding research environment.
 
 {%
   include button.html
