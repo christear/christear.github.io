@@ -1,19 +1,15 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Human Phenotype Project
+  subtitle: HPP
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/hpp.png
+  link: https://humanphenotypeproject.org/home
+  description: The Human Phenotype Project is a landmark initiative, powered by Pheno.AI, that set out to deeply profile hundreds of thousands of participants from around the world, in an effort to unlock the information researchers need to improve human health.
   tags:
     - resource
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
+- title: Emirates Genome Project
+  subtitle: EGP
+  image: images/egp.png
+  link: https://www.emiratigenomeprogram.ae/en/index.html
+  description: The Emirati Genome Program is a significant national project that aims to draw a comprehensive genetic map for UAE citizens to accelerate the development of advanced preventive and personalised healthcare solutions for the nation’s present and future generations.
     - resource
-    - publication
