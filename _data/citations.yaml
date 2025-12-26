@@ -106,3 +106,117 @@
   image: https://blog-img-1304093596.cos.ap-shanghai.myqcloud.com/202512202333121.png
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/j.xgen.2024.100641
+  title: An isoform-resolution transcriptomic atlas of colorectal cancer from long-read
+    single-cell sequencing
+  authors:
+  - Zhongxiao Li
+  - Bin Zhang
+  - Jia Jia Chan
+  - Hossein Tabatabaeian
+  - Qing Yun Tong
+  - Xiao Hong Chew
+  - Xiaonan Fan
+  - Patrick Driguez
+  - Charlene Chan
+  - Faith Cheong
+  - Shi Wang
+  - Bei En Siew
+  - Ian Jse-Wei Tan
+  - Kai-Yin Lee
+  - Bettina Lieske
+  - Wai-Kit Cheong
+  - Dennis Kappei
+  - Ker-Kan Tan
+  - Xin Gao
+  - Yvonne Tay
+  publisher: Cell Genomics
+  date: '2024-09-11'
+  link: https://doi.org/hbgd3s
+  type: paper
+  description: Colorectal cancer (CRC) ranks as the second leading cause of cancer
+    deaths globally. In recent years, short-read single-cell RNA sequencing (scRNA-seq)
+    has been instrumental in deciphering tumor heterogeneities. However, these studies
+    only enable gene-level quantification but neglect alterations in transcript structures
+    arising from alternative end processing or splicing. In this study, we integrated
+    short- and long-read scRNA-seq of CRC samples to build an isoform-resolution CRC
+    transcriptomic atlas.
+  image: https://blog-img-1304093596.cos.ap-shanghai.myqcloud.com/202512261710900.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-025-63911-3
+  title: Stabilizing a mammalian RNA thermometer confers neuroprotection in subarachnoid
+    hemorrhage
+  authors:
+  - Min Zhang
+  - Bin Zhang
+  - Chengli Liu
+  - "Marco Preu\xDFner"
+  - Megha Ayachit
+  - Weiming Li
+  - Yafei Huang
+  - Deyi Liu
+  - Quanwei He
+  - Ann-Kathrin Emmerichs
+  - Stefan Meinke
+  - Shu Chen
+  - Lin Wang
+  - Liduan Zheng
+  - Qiubai Li
+  - Qin Huang
+  - Tom Haltenhof
+  - Ruoxi Gao
+  - Xianan Qin
+  - Aifang Cheng
+  - Tianzi Wei
+  - Li Yu
+  - Mario Schubert
+  - Xin Gao
+  - Mingchang Li
+  - Florian Heyd
+  publisher: Nature Communications
+  date: '2025-09-18'
+  link: https://doi.org/hbgd3m
+  type: paper
+  description: Mammals tightly regulate their core body temperature, yet how cells
+    sense and respond to small temperature changes remains incompletely understood.
+    Here, we discover RNA G-quadruplexes (rG4s) as key thermosensors enriched near
+    splice sites of cold-repressed exons. These thermosensing RNA structures, when
+    stabilized, mask splice sites, reducing exon inclusion.
+  image: https://blog-img-1304093596.cos.ap-shanghai.myqcloud.com/202512261711868.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/gr.277177.122
+  title: Accurate transcriptome-wide identification and quantification of alternative
+    polyadenylation from RNA-seq data with APAIQ
+  authors:
+  - Yongkang Long
+  - Bin Zhang
+  - Shuye Tian
+  - Jia Jia Chan
+  - Juexiao Zhou
+  - Zhongxiao Li
+  - Yisheng Li
+  - Zheng An
+  - Xingyu Liao
+  - Yu Wang
+  - Shiwei Sun
+  - Ying Xu
+  - Yvonne Tay
+  - Wei Chen
+  - Xin Gao
+  publisher: Genome Research
+  date: '2023-02-28'
+  link: https://doi.org/hbgd36
+  type: paper
+  description: "Alternative polyadenylation (APA) enables a gene to generate multiple\
+    \ transcripts with different 3\u2032 ends, which is dynamic across different cell\
+    \ types or conditions. Many computational methods have been developed to characterize\
+    \ sample-specific APA using the corresponding RNA-seq data, but suffered from\
+    \ high error rate on both polyadenylation site (PAS) identification and quantification\
+    \ of PAS usage (PAU), and bias toward 3\u2032 untranslated regions. Here we developed\
+    \ a tool for APA identification and quantification (APAIQ) from RNA-seq data,\
+    \ which can accurately identify PAS and quantify PAU in a transcriptome-wide manner."
+  image: https://blog-img-1304093596.cos.ap-shanghai.myqcloud.com/202512261715679.png
+  plugin: sources.py
+  file: sources.yaml
