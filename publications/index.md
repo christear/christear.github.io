@@ -15,7 +15,7 @@ By integrating multi-omics data, single-cell technologies, and AI-driven modelin
 
 ## Highlighted
 
-<!-- {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %} -->
+{% include citation.html lookup="Deciphering DNA variant-associated aberrant splicing with the aid of RNA sequencing" style="rich" %}
 
 {% include section.html %}
 
