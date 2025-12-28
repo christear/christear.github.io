@@ -5,7 +5,7 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Publications
+# Publications
 
 Looking ahead, our research aims to develop interpretable biological foundation models, with a focus on antigen presentation and RNA isoform regulation at single-cell resolution. Moving beyond traditional gene-centric approaches, we explore isoform-level expression as a fundamental representation to characterize cell types, cellular states, and their spatiotemporal dynamics. This perspective enables a more precise and mechanistic understanding of cellular regulation.
 

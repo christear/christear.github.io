@@ -5,7 +5,7 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# Contact
 
 Reach out to us in regards to research, media, and project sponsorship. We are always looking for new collaborators and students to join our team.
 

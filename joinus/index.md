@@ -5,7 +5,7 @@ nav:
   tooltip: Join our team
 ---
 
-# {% include icon.html icon="fa-solid fa-user-plus" %}Join our team:
+# Join our team:
 
 Our team is still growing. 
 
