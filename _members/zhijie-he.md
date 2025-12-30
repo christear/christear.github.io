@@ -6,7 +6,7 @@ affiliation: Mohamed bin Zayed University of Artificial Intelligence
 role: Visiting Student
 links:
   email: zhijie.he@mbzuai.ac.ae
-  ORCID: https://orcid.org/0000-0001-8835-8370
+  website: https://chikit2077.github.io/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Zhijie He is a highly motivated Software Engineering graduate currently pursuing a Master's degree in Computational Biology. His academic journey has equipped me with a solid foundation in computer science, encompassing software development, algorithm design, and data structures, while his graduate research focuses on computational biology and model interpretability. By leveraging his expertise in bioinformatics, machine learning, and systems biology, I aim to develop innovative computational solutions for complex biological and medical challenges.
