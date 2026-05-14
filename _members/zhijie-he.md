@@ -2,6 +2,7 @@
 name: Zhijie He
 image: images/photo-zhijie-he.png
 description: Visiting Student
+affiliation: Northwest A&F University
 role: Alumni
 links:
   email: zhijie.he@mbzuai.ac.ae
