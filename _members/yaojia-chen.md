@@ -3,7 +3,7 @@ name: Yaojia Chen
 image: images/photo-yaojia-chen.jpg
 description: Postdoc
 affiliation: Mohamed bin Zayed University of Artificial Intelligence
-role: Postdoc
+role: Postdoctoral Researchers
 links:
   email: yaojia.chen@mbzuai.ac.ae
   website: http://lab.malab.cn/~cyj/

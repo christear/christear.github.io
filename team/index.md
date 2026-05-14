@@ -11,8 +11,17 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+## Faculty
+{% include list.html data="members" component="portrait" filter="role == 'Faculty'" %}
+
+## Current Students
+{% include list.html data="members" component="portrait" filter="role == 'Current Students'" %}
+
+## Postdoctoral Researchers
+{% include list.html data="members" component="portrait" filter="role == 'Postdoctoral Researchers'" %}
+
+## Alumni
+{% include list.html data="members" component="portrait" filter="role == 'Alumni'" %}
 
 {% include section.html background="images/background.png" dark=true %}
 

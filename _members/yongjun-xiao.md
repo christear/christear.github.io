@@ -3,7 +3,7 @@ name: Yongjun Xiao
 image: images/photo-yongjun-xiao.jpg
 description: Visiting Student
 affiliation: Mohamed bin Zayed University of Artificial Intelligence
-role: Visiting Student
+role: Current Students
 links:
   email: yongjun.xiao@mbzuai.ac.ae
 ---

@@ -3,7 +3,7 @@ name: Zhijie He
 image: images/photo-zhijie-he.png
 description: Visiting Student
 affiliation: Mohamed bin Zayed University of Artificial Intelligence
-role: Visiting Student
+role: Alumni
 links:
   email: zhijie.he@mbzuai.ac.ae
   website: https://chikit2077.github.io/
