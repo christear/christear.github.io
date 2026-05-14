@@ -1,11 +1,11 @@
 ---
 name: Yongjun Xiao
 image: images/photo-yongjun-xiao.jpg
-description: Visiting Student
+description: Incoming Master’s Student
 affiliation: Mohamed bin Zayed University of Artificial Intelligence
 role: Current Students
 links:
   email: yongjun.xiao@mbzuai.ac.ae
 ---
 
-Yongjun Xiao is a visiting student under the supervision of Professor Bin Zhang. His research is centered on developing novel computational methods for multi-omics data integration and spatial biology, with a current emphasis on foundation models in bioinformatics. His long-term goal is to build interpretable and robust AI models to decipher complex biological systems.
+Yongjun Xiao is an incoming master’s student under the supervision of Professor Bin Zhang. His research is centered on developing novel computational methods for multi-omics data integration and spatial biology, with a current emphasis on foundation models in bioinformatics. His long-term goal is to build interpretable and robust AI models to decipher complex biological systems.
