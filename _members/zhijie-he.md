@@ -2,7 +2,6 @@
 name: Zhijie He
 image: images/photo-zhijie-he.png
 description: Visiting Student
-# affiliation: Mohamed bin Zayed University of Artificial Intelligence
 role: Alumni
 links:
   email: zhijie.he@mbzuai.ac.ae
